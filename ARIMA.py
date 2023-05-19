@@ -7,7 +7,7 @@ Created on Fri May 19 12:08:03 2023
 
 #ARIMA - AutoRegression Integrated Moving Average
 #Importing Necessary Packages
-import pandas as od
+import pandas as pd
 import os
 import numpy as np
 import matplotlib.pyplot as plt
